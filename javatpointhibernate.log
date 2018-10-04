@@ -1,0 +1,7 @@
+08:06:11,560 DEBUG Demo:11 - This is a debug message
+  08:06:11,564 ERROR Demo:20 - This is an exception
+  java.lang.Exception: My Exception
+	at com.java.demo.Demo.myMethod(Demo.java:18)
+	at com.java.demo.Demo.main(Demo.java:12)
+08:06:11,567  INFO Demo:13 - This is an info message
+  
